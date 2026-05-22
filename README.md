@@ -80,4 +80,4 @@ qa-portfolio/
 **Артём Проскурнин** — QA Engineer  
 📧 rnifik@gmail.com  
 💬 Telegram: [@whouwarrior](https://t.me/whouwarrior)  
-🔗 [Резюме на HH.ru]([#](https://hh.ru/resume/1f850d3eff1087a7310039ed1f4f5a74364b44))
+🔗 [Резюме на HH.ru](https://hh.ru/resume/1f850d3eff1087a7310039ed1f4f5a74364b44)
