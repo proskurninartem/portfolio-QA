@@ -77,7 +77,8 @@ qa-portfolio/
 
 ## 📬 Контакты
 
-**Артём Проскурнин** — QA Engineer
+**Артём Проскурнин** — QA Engineer 
+
 📞 +79505172613
 📧 rnifik@gmail.com  
 💬 Telegram: [@whouwarrior](https://t.me/whouwarrior)  
